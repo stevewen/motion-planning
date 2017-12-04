@@ -26,7 +26,7 @@
 - 投影
 
 <center>
-<img src="http://oj6n9xi25.bkt.clouddn.com/17-1-29/54550340-file_1485662433642_1cc2.png" width="40%" />
+<img src="http://oj6n9xi25.bkt.clouddn.com/17-1-29/54550340-file_1485662433642_1cc2.png" width="30%" />
 图  .两个三角形碰撞检测
 </center>
 
