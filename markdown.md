@@ -105,6 +105,7 @@ return mtv;
 
 <center>
 <img src="http://oj6n9xi25.bkt.clouddn.com/17-1-29/57010667-file_1485666583149_14aae.png " width="40%" />
+  
 <img src="http://oj6n9xi25.bkt.clouddn.com/17-1-29/4670185-file_1485666689361_14785.png " width="40%" />
 图.两个三角形碰撞检测
 </center>
